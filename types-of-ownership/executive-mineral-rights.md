@@ -1,3 +1,3 @@
 ---
-title: Executive mineral rights
+title: Executive mineral interest
 ---
