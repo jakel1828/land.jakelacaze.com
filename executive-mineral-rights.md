@@ -1,4 +1,4 @@
 ---
 title: Executive mineral interest
-url: /executive-mineral-interest
+url: /executive-mineral-interest/
 ---
