@@ -1,7 +1,5 @@
 # Executive mineral interest
 
-An executive mineral interest refers the ownership of executive rights, which let an owner participate in the execution of an oil and gas lease.
+An executive mineral interest refers the ownership of executive rights, which let an owner participate in the execution of an oil and gas lease and other agreements (such as pooling agreements) relating to their mineral interests.
 
-An executive mineral owner may:
-- Negotiate and execute oil and gas leases and other agreements relating to their mineral interests (such as pooling agreements).
-- Receive payments for lease bonus, delay rentals, and production.
+In addition to participating in a lease, the executive mineral owner has the right to receive payments for lease bonus, delay rentals, and production.
