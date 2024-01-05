@@ -1,4 +1,4 @@
-# Non-executive mineral interest
+# Non-executive mineral interest (NEMI)
 
 A non-executive mineral interest (NEMI) entitles an owner to receive lease bonus
 and royalties from production but does **not** entitle the owner to negotiate
