@@ -14,7 +14,7 @@ but who is **not entitled to**:
 related to the ownership of minerals or royalties.
 
 The terms to an NPRI owner is bound to are determined by the lease or
-other agreement signed by the [executive mineral interest](/types-of-ownership/executive-mineral-owner) owner.
+other agreement signed by the [executive mineral interest](/land/types-of-ownership/executive-mineral-owner) owner.
 The NPRI owner's  royalty interest may be deducted from the royalty interest
-owned by an executive mineral interest owner or a [non-executive mineral interest (NEMI)](/types-of-ownership/non-executive-mineral-interest)
+owned by an executive mineral interest owner or a [non-executive mineral interest (NEMI)](/land/types-of-ownership/non-executive-mineral-interest)
  owner.
