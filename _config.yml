@@ -2,5 +2,5 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 remote_theme: just-the-docs/just-the-docs
-title: 'Oil and gas land professional knowledge base'
+title: 'Oil and gas land knowledge base'
 permalink: /:title
