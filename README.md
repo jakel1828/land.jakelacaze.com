@@ -1,4 +1,9 @@
-# Welcome
+---
+title: Welcome to the oil and gas land professional knowledge base
+nav_order: 1
+---
+
+# Home
 
 This page oil and gas land professional knowledge base 
 is a work-in-progress and is intended to serve as a reference 
