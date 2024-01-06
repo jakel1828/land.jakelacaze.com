@@ -1,4 +1,8 @@
-# Non-participating royalty interest (NPRI)
+---
+title: Non-participating royalty interest (NPRI)
+parent: Types of mineral ownership
+nav_order: 3
+---
 
 A non-participating royalty interest (NPRI) refers to an owner who is entitled
 to receive royalty payments on a portion of the oil and gas production
