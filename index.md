@@ -5,7 +5,7 @@ nav_order: -1
 
 # Home
 
-This oil and gas land professional knowledge base 
+This oil and gas land knowledge base 
 is a work-in-progress and is intended to serve as a reference 
 for anyone learning the basics of the oil and gas land work.
 
