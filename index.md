@@ -1,5 +1,5 @@
 ---
-title: Welcome to the oil and gas land professional knowledge base
+title: Home
 nav_order: -1
 ---
 
