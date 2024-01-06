@@ -1,6 +1,6 @@
 ---
 title: Welcome to the oil and gas land professional knowledge base
-nav_order: 1
+nav_order: -1
 ---
 
 # Home
