@@ -3,3 +3,4 @@ plugins:
   - jekyll-sitemap
 remote_theme: just-the-docs/just-the-docs
 title: 'Oil and gas land professional knowledge base'
+permalink: /:title
